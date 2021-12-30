@@ -1465,7 +1465,6 @@ ${readmore}
 > ⬡ ${prefix}demote 
 > ⬡ ${prefix}setdesc
 > ⬡ ${prefix}setname
-> ⬡ ${prefix}google <text>
 > ⬡ ${prefix}kick 
 > ⬡ ${prefix}add 
 > ⬡ ${prefix}getbio
@@ -1589,26 +1588,7 @@ ${readmore}
 > ⬡ ${prefix}pretty
 
 
- ⬣ 𝙉𝙎𝙁𝙒 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
-> ⬡ ${prefix}yuri
-> ⬡ ${prefix}hentai
-> ⬡ ${prefix}anal
-> ⬡ ${prefix}eroneko
-> ⬡ ${prefix}lesbian
-> ⬡ ${prefix}kitsune
-> ⬡ ${prefix}bj
-> ⬡ ${prefix}pussy
-> ⬡ ${prefix}wallpaper
-> ⬡ ${prefix}neko2
-> ⬡ ${prefix}baka
-> ⬡ ${prefix}slap
-> ⬡ ${prefix}poke
-> ⬡ ${prefix}keta
-> ⬡ ${prefix}awoo
-> ⬡ ${prefix}blowjob
-> ⬡ ${prefix}megumin
-> ⬡ ${prefix}neko
-> ⬡ ${prefix}trapnime
+ 
 
 𝗡𝗼𝘁𝗲 : Horny = Bonks💥
 Just Learn to Make Bots 🐶
@@ -2096,8 +2076,6 @@ menu = `シ𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎シ︎
 ㋛${prefix}demote <reply chat member>
 
 ㋛${prefix}setdesc
-
-㋛${prefix}google <Text>
 
 ㋛${prefix}setname
 
